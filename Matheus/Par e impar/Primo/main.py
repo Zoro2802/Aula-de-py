@@ -1,7 +1,7 @@
 def main():
 
     num = int (input("Digete um número: "))
-
+    
     i = 2
 
     while num != i and num > 1:
